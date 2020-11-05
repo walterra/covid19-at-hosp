@@ -21,7 +21,9 @@ Ein äußerst naiver Versuch, ICU-Hospitalisierungen zu schätzen.
 - Die Berechnung bezieht auch nicht die Positivrate mit ein, die ein Indikator dafür sein kann, wie gut das Contact-Tracing funktioniert und inwieweit unentdeckte/ungetestete Fälle später hospitalisiert werden. Die Schätzung kann nicht abbilden , wenn eine steigende Positivrate nicht auf eine bewusste Veränderung der Teststrategie zurückzuführen ist, sondern auf Community Spread im Hintergrund basiert.
 - Der Versatz von 5 Tagen zur gleitenden Summe ist eine manuelle Anpassung zu den Referenzzahlen auf Basis der Annahmen.
 
-----
+## Proof of Concept
+
+[covid19at-isu.xlsx](covid19at-isu.xlsx)
 
 ![covid-19-at-hosp](img/2020-11-05_icu.png)
 
