@@ -19,6 +19,7 @@ Ein äußerst naiver Versuch, ICU-Hospitalisierungen zu schätzen.
 
 - Die Berechnung berücksichtigt nicht die Altersstruktur und damit nicht die unterschiedliche Hospitalisierungsrate von Infizierten nach Altersgruppe. Die Berechnung kommt daher z.B. bei Anwendung auf das Frühjahr zu einer zu niedrigen Schätzung. Das bedeutet auch, eine Veränderung der Altersstruktur bei zukünftigen Infizierten (z.B. wenn das Virus weiter in Pflegeheime vordringt) kann die Schätzung nicht abbilden.
 - Die Berechnung bezieht auch nicht die Positivrate mit ein, die ein Indikator dafür sein kann, wie gut das Contact-Tracing funktioniert und inwieweit unentdeckte/ungetestete Fälle später hospitalisiert werden. Die Schätzung kann nicht abbilden , wenn eine steigende Positivrate nicht auf eine bewusste Veränderung der Teststrategie zurückzuführen ist, sondern auf Community Spread im Hintergrund basiert.
+- Der Versatz von 5 Tagen zur gleitenden Summe ist eine manuelle Anpassung zu den Referenzzahlen auf Basis der Annahmen.
 
 ----
 
