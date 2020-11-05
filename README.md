@@ -1,6 +1,6 @@
 # covid-19-at-hosp
 
-Ein naiver Versuch, ICU-Hospitalisierungen zu schätzen.
+Ein äußerst naiver Versuch, ICU-Hospitalisierungen zu schätzen.
 
 ## Annahmen
 
